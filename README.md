@@ -1,6 +1,6 @@
 # Classification project
 Data science Project one of core element of T5 Boot camp from SDAIA Academy
-## Network-ntrusion-Detection
+## Network-intrusion-Detection
 <p align="center" width="100%">
 <img src="https://reciprocity.com/wp-content/uploads/2021/06/resource_advanced-persistent-threat-cybersecurity_featured-img_730x270.jpg"/>
 </p>
